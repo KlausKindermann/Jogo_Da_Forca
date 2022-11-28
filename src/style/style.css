@@ -1,0 +1,18 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgba(255, 207, 103, 0.904);
+    width: 1100px;
+    margin: 0 auto;
+}
+
+.preto {
+    color: black;
+}
+
+.vermelho {
+    color: red;
+}
+
+.verde {
+    color: #27ae60;
+}
